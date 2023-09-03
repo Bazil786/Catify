@@ -155,7 +155,7 @@ p {
 }
 
 .price-text {
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 1.5;
 }
 
@@ -169,6 +169,10 @@ p {
 
 .social-icon {
   margin: 20px 10px;
+}
+.btn-2 {
+  color: black;
+  background-color: #fff;
 }
 
 @media (max-width: 985px) {
